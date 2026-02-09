@@ -1,0 +1,54 @@
+top_d_size:
+- 2
+- 15
+top_tau:
+- 100000
+- 2
+top_w:
+- 0.0
+- 0.005
+top_w1:
+- 0.005
+- 0.005
+top_wd1:
+- 0.0
+- 0.0
+top_z_size:
+- 1
+- 3
+prop_d_size:
+- 15
+prop_tau:
+- 2
+prop_w:
+- 0.005
+prop_w1:
+- 0.005
+prop_wd1:
+- 0.0
+prop_z_size:
+- 1
+vision_d_size:
+- 15
+vision_tau:
+- 2
+vision_w:
+- 0.005
+vision_w1:
+- 0.005
+vision_wd1:
+- 0.0
+vision_z_size:
+- 1
+intero_d_size:
+- 15
+intero_tau:
+- 2
+intero_w:
+- 0.005
+intero_w1:
+- 0.005
+intero_wd1:
+- 0.0
+intero_z_size:
+- 1
